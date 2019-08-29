@@ -1,19 +1,21 @@
 /* * {
     background-color:gray;
-} */
-
+/* } */
+/* html {
+  background-color: coral;
+} */ 
 
 .modal {
     text-align: center;       /* Center the modal window. */
   }
   
-  .modal-dialog {
+.modal-dialog {
     width: auto;
     margin: 30px auto;
     display: inline-block;
   }
 
-  #matchImg {
+#matchImg {
     width:100%;
 
   }
