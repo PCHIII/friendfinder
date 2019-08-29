@@ -4,9 +4,9 @@
 /* html {
   background-color: coral;
 } */ 
-
+/* Center the modal window. */
 .modal {
-    text-align: center;       /* Center the modal window. */
+    text-align: center;       
   }
   
 .modal-dialog {

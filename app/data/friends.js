@@ -1,7 +1,7 @@
 var friends = [
 
     {
-        name:"Jessica",
+        name:"Jessica Alba",
         photo:"https://bodyartguru.com/wp-content/uploads/2017/07/Jessica-Alba.jpg",
         scores:[
             "5",
@@ -18,7 +18,7 @@ var friends = [
       },
 
       {
-        name:"Pamela",
+        name:"Pamela Anderson",
         photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vn-6u_mGKLR5xVAUepG91yKkgKr86PkMmC_8SxDcYJc7C6CD",
         scores:[
             "4",
