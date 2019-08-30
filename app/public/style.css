@@ -1,9 +1,13 @@
-/* * {
-    background-color:gray;
-/* } */
-/* html {
-  background-color: coral;
-} */ 
+/* *, html {
+  background-color: lightblue;
+} */
+body{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+
 /* Center the modal window. */
 .modal {
     text-align: center;       
