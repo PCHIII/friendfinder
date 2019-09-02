@@ -1,6 +1,10 @@
 
 # Friend Finder - Node and Express Servers
 
+## Deployed on Heroku <a href="https://afternoon-dawn-41677.herokuapp.com/" rel="nofollow"> here.</a>
+
+
+
 ### Overview
 
 In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
@@ -23,7 +27,6 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
       - public
         - home.html
         - survey.html
-      - routing
         - apiRoutes.js
         - htmlRoutes.js
     - node_modules
