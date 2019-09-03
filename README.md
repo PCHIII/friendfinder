@@ -26,11 +26,9 @@ This App is a compatibility-based "FriendFinder" application -- basically a dati
 - - -
 - - -
 ## Best Match Page:
-
-![](screen_shotsff/ff2.JPG)
-
-- - -
-- - -
+![](screen_shotsff/Casssswpture.JPG)
 
 - - -
+- - -
 
+- - -
