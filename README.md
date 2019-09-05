@@ -14,18 +14,22 @@ This App is a compatibility-based "FriendFinder" application -- basically a dati
 - - -
 - - -
 ## Home Page:
+- First page of App, allows you to begin the Survey.
 
 ![](screen_shotsff/ff.JPG)
 
 - - -
 - - -
 ## Survey Page:
+- Enter Name, Upload picture and Answer 10 Survey Questions to be Matched with a New Friend.
 
 ![](screen_shotsff/ff1.JPG)
 
 - - -
 - - -
 ## Best Match Page:
+- Final Page of App, Displays Best Match.
+
 ![](screen_shotsff/Casssswpture.JPG)
 
 - - -
